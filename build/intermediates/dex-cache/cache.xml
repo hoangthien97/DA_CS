@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\453bf5f082665fe7c3eee2e1ab5a38b501c106d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5f53ceaaac43f720644749e4de0e6a47ae6afb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\51f9d3f33ef6b3e7ffd94c0fbb76a24be8bd0ce5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7624cb86185c888b0a6509398f8ddacc326a6573\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\dc17991f8ddc2e074d2dd6e6afddb6c9338b6f9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3d494f05a36011eb3843163a0283666e3e9f2fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\6970a6be5fa8527a057159cd9d65e7d166e4a94c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_829c8493989d77a4605285e935a3d1b5f4787e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\bddad9de0484fb614ebdc817bdab5b2b7ec091f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d4a53680e610408fdd465c0f19a7994e457d4cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\d1ec6732c2b46e441f458746ecda61f95d35d62a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8bf14adcb946582ad87777ef7df46ad12774c94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_4236d10a94e1d716ad50d2cff1a9e37e18680bb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NoobStore\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ae5015f43876f641f9246513d564471a45a4083\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\71009e33d2cd3d5f615d197ead66de81d37ba110\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_724b832e150427ffd100aa9773c228334d50e5af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\39ce7eca557c57940d47b05e7f1798bc5b14cb58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ee375f8871c5041427e0493a052f921bd969445\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\NoobStore\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="441a016e23947697786851ef2c2d48ce1ce0f456">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f6ceae614ddd4db25b4442af773790b1ba412496\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\thien\.android\build-cache\8bb7e4d1367751a8b909c58149d362d8f12c3237\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\Android\NoobStore\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_626b0920e7e4a47c5fd620665530ddd0bb61d978\classes.dex" />
+    </item>
+
+</items>
